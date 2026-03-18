@@ -1,0 +1,6 @@
+gradio>=4.44,<6
+langgraph>=0.2.0
+langchain>=0.2.0
+langchain-huggingface>=0.1.0
+huggingface_hub>=0.23.0
+typing_extensions>=4.0.0
